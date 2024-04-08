@@ -1,0 +1,145 @@
+/* Store this code in 'style.css' file inside the 'static' folder*/
+
+/*
+.header{
+    padding: 5px 120px;
+    width: 150px;
+    height: 70px;
+    background-color: #236B8E; 
+}
+
+.border{
+    padding: 80px 50px;
+    width: 400px;
+    height: 450px;
+    border: 1px solid #236B8E;
+    border-radius: 0px;
+    background-color: #9AC0CD;
+}
+
+.btn {
+    padding: 10px 40px;
+    background-color: #236B8E; 
+    color: #FFFFFF;
+    font-style: oblique;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.textbox{
+    padding: 10px 40px;
+    background-color: #236B8E; 
+    text-color: #FFFFFF;
+    border-radius: 10px;
+}
+    
+::placeholder {
+    color: #FFFFFF;
+    opacity: 1;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.word{
+    color: #FFFFFF;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.bottom{
+    color: #236B8E;
+    font-style: oblique;
+    font-weight: bold;
+}
+*/
+
+
+
+
+/* Store this code in 'style.css' file inside the 'static' folder */
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+.header {
+    padding: 10px 20px;
+    width: 150px;
+    height: 50px;
+   
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+
+.border {
+    padding: 40px;
+    width: 100%;
+    height: 100%;
+    border: 2px solid #236B8E;
+    border-radius: 10px;
+    background-color: #9AC0CD;
+    margin-bottom: 20px;
+}
+
+
+.btn {
+    padding: 10px 20px;
+    background-color: #236B8E;
+    color: #FFFFFF;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.textbox {
+    padding: 10px 20px;
+    background-color: #FFFFFF;
+    color: #236B8E;
+    border: 2px solid #236B8E;
+    border-radius: 5px;
+}
+
+
+.textbox::placeholder {
+    color: #236B8E;
+    opacity: 0.7;
+}
+
+
+.word {
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+.bottom {
+    color: #236B8E;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.logo {
+    width: 80px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+
+
+
+
+
