@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intrusion-Detection-using-ML
 Project Idea: Making an Intrusion Detection using Machine Learning<br/><br/>
 # Contributors:<br/>
@@ -29,3 +30,7 @@ Steps for starting server.
 $ export FLASK_APP=app.py
 $ python -m flask run
 ```
+=======
+# ThreatWatch
+A Network Intrusion Detection System (NIDS) passively monitors network traffic for signs of unauthorized or suspicious behavior, helping to maintain network security.
+>>>>>>> b6e371e5a57c4ac9451d62e1b169912f08d6fbcd
